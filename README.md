@@ -1,4 +1,4 @@
-# localizing_Jupter_spark_on_Windows
+# localisation_the_Jupyter_spark_on_a_Windows_machine
 Install Hadoop on Windows Machine:
 
 
