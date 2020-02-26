@@ -23,7 +23,7 @@ Install Apache Spark:
 
 3)	Install winutls.exe to setup Hadoop using the following link:
 
-  a.	https://www.github.com/BabakEA/localizing_Jupter_spark_on_Windows/blob/master/winutils.exe
+  a.	https://github.com/BabakEA/Install_Apache_SPARK_Hadoop_on_Windows_Machine/blob/master/winutils.exe
   
   b.	Create a Hadoop folder 
   
