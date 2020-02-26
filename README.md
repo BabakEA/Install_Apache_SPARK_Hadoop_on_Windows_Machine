@@ -45,7 +45,7 @@ Install Apache Spark:
       
       2.	Variable value: D:\apache_spark\spark-3.0.0-preview2-bin-hadoop3.2
       
-`f.	Add Hadoop and Spark Binary to the path: go to the pad and edit path
+f.	Add Hadoop and Spark Binary to the path: go to the User Variables for … and edit the path
 
  g.	Add Hadoop and spark home to the path:
  
