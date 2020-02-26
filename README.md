@@ -53,12 +53,15 @@ Install Apache Spark:
 
 Setup Jupyter notebook for Pyspark:
   1)	Install findspark lib using:
+  
     a.	python -m pip install findspark
     
   2)	initialise pyspark using this lib using:
+  
     a.	import findspark
     
     b.	findspark.init()
+    
 ###########
 
     
