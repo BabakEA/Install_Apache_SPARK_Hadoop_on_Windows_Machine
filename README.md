@@ -30,14 +30,16 @@ Install Apache Spark:
   c.	Create bin folder and copy the winutils.exe in the (D:\Hadoop\bin\)
   
   d.	Go to Control Panel\System and Security\System and click on advanced system setting 
-  e.	Got to Environment variables, create HADOOP_HOME and SAPRK_HOME  
+  
+  e.	Got to Environment variables, create HADOOP_HOME and SAPRK_HOME 
+  
    i.	HADOOP:
    
       1.	Variable Name: HADOOP_HOME 
       
       2.	Variable value: D:\hadoop
       
-    ii.	SPARK:
+   ii.	SPARK:
     
       1.  Variable Name: SPARK_HOME 
       
