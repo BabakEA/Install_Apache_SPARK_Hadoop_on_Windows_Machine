@@ -59,9 +59,9 @@ Install Apache Spark:
   
     i.	d:\hadoop\bin\winutils chmod 777 d:\tem\hive
     
-    i.	change the Spark loge, from info to error: go to the following address 
+    J.	change the Spark log, from info to error: go to the following address 
     
-    j.	D:\apache_spark\spark-3.0.0-preview2-bin-hadoop3.2\conf
+    	   D:\apache_spark\spark-3.0.0-preview2-bin-hadoop3.2\conf
     
         i.	Make a copy of (log4j.properties.template) and rename it to log4j.properties
         
