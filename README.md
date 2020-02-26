@@ -78,7 +78,7 @@ Setup Jupyter notebook for Pyspark:
   
     a.	python -m pip install findspark
     
-  2)	initialise pyspark using this lib using:
+  2)	initialise pyspark using this lib:
   
     a.	import findspark
     
